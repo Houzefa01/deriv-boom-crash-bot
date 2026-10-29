@@ -1,0 +1,5 @@
+.arbor/
+.autoresearch/
+.coordinator/
+results/
+cache_old_*/
